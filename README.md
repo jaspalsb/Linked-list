@@ -1,2 +1,2 @@
 # Linked-list
-Deque abstract data type implemented with linked list
+Deque and bag abstract data type implemented with linked list
